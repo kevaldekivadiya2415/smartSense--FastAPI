@@ -1,0 +1,17 @@
+company,job,degree,salary_more_then_50000
+Reliance,sales executive,bachelors,0
+Reliance,sales executive,masters,0
+Reliance,business manager,bachelors,1
+Reliance,business manager,masters,1
+Reliance,computer programmer,bachelors,0
+Reliance,computer programmer,masters,1
+Torrent,sales executive,masters,0
+Torrent,computer programmer,bachelors,0
+Torrent,business manager,bachelors,0
+Torrent,business manager,masters,1
+Sun Pharma,sales executive,bachelors,1
+Sun Pharma,sales executive,masters,1
+Sun Pharma,business manager,bachelors,1
+Sun Pharma,business manager,masters,1
+Sun Pharma,computer programmer,bachelors,1
+Sun Pharma,computer programmer,masters,1
